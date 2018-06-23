@@ -1,4 +1,4 @@
-(ns cityuniversitylondon.reqd
+(ns reqd.reqd
     (:require [reagent.core :as reagent :refer [atom]]))
 
 (enable-console-print!)
